@@ -97,5 +97,9 @@ public class LoginPage extends BasePage{
         return actualMessage;
     }
 
+    public void loginAsAdmin(){
+
+    }
+
 
 }
